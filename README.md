@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Deep</h1>
 <h3 align="center">🚀 Code 🔥 | Debug 🔧 | Deploy 🐦‍🔥 | Repeat 🐉 | Learning Web, ML & C++</h3>
-<img alt="coding" width="400" src = "https://github.com/amandx36/amandx36/blob/main/PutThis.gif">
+<img style = "width : 100% ;"alt="coding" width="400" src = "https://github.com/amandx36/amandx36/blob/main/PutThis.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandx36&label=Profile%20views&color=0e75b6&style=flat" alt="amandx36" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandx36" alt="amandx36" /></a> </p>
