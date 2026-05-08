@@ -22,8 +22,6 @@
 - 📫 How to reach me **amdeep.dev@gmail.com**
 - ⚡ Fun fact **"I love Arch Linux… until it breaks. Then I hate it… until I fix it again 🐧🔥."**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/aman-deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-deep" height="30" width="40" /></a><a href="https://instagram.com/amandx36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amandx36" height="30" width="40" /></a><a href="https://www.leetcode.com/xamandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xamandeep" height="30" width="40" /></a></p>
 
 
 ---
