@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning | Full Stack | Cyber Security**
 
-- 📫 How to reach me **xamandeep360@gmail.com**
+- 📫 How to reach me **amdeep.dev@gmail.com**
 
 - ⚡ Fun fact **"I love Arch Linux… until it breaks. Then I hate it… until I fix it again 🐧🔥."**
 
