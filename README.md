@@ -19,6 +19,7 @@ Building scalable apps, automating workflows, and exploring AI-driven systems �
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amandx36&label=Profile%20views&color=0e75b6&style=flat" alt="amandx36" />
 </p>
+
 - 🧠 Exploring **Agentic AI, AI Automation & Scalable Backend Architectures**
 - 🚀 Passionate about **Full Stack Development, DevOps & Open Source**
 - 🐧 Arch Linux enthusiast who loves clean workflows and powerful systems
