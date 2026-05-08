@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Secure Sense](https://github.com/amandx36/Secure-Sense-)
 
-- 🌱 I’m currently learning **Machine Learning | Full Stack | Cyber Security**
+- 🌱 I’m currently learning **Machine Learning | Full Stack | DevOps**
 
 - 📫 How to reach me **amdeep.dev@gmail.com**
 
