@@ -12,7 +12,7 @@ Building scalable apps, automating workflows, and exploring AI-driven systems �
 
 ---
 <p align="center">
-  🌐 <a href="https://amandx36team.netlify.app/" target="_blank">Check out my Portfolio</a>
+  🌐 <a href="https://portfolio-henna-nu-46.vercel.app/" target="_blank">Check out my Portfolio</a>
 </p>
 
 
